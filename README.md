@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Python, plotly, numpy**
-
 - 📫 How to reach me **dominik.r.mall2@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/dominik-mall](www.linkedin.com/in/dominik-mall)
