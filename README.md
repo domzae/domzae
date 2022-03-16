@@ -1,9 +1,7 @@
 <h1 align="center">Hey, I'm Dominik</h1>
 <h3 align="center">A problem-solver from Australia</h3>
 
-- 🔭 I’m currently working on [Will-it-fit](https://github.com/freichel/willitfit)
-
-- 🌱 I’m currently learning **Data Engineering**
+- 🔭 I’m currently a Data Engineer at [betterplace](https://www.betterplace.org/en)
 
 - 📫 How to reach me **dominik.r.mall2@gmail.com**
 
